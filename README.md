@@ -21,7 +21,7 @@ Once your document is saved on their system, there’s a risk that it could be s
 - *🔑 User Privacy First*: Ensures your data remains yours – no tracking, no selling, just secure sharing.
 
 ## 🛠 Tech Stack
-- *Frontend*: React.js ⚛
+- *Frontend*: React.js ⚛ ,Vite, Tailwind CSS
 - *Backend*: Node.js 🟩, Express.js
 - *Database*: MongoDB 🗃
 - *Encryption*: Libraries for document security 🔐
@@ -53,6 +53,9 @@ Once your document is saved on their system, there’s a risk that it could be s
 - Receive a *one-time QR code* after uploading.
 - Property shop owners scan this QR code to access and print the document.
 - Once scanned, the QR code *expires*, ensuring no one else can use it!
+
+## Screenshots
+
 
 ## 👨‍💻 Contributing to Kawach
 1. *Fork the repository*.
